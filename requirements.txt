@@ -1,0 +1,7 @@
+plotly
+sklearn
+moviepy
+scipy
+numpy
+matplotlib
+fbpca

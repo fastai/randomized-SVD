@@ -1,6 +1,7 @@
 videos/
-Video_003.avi
+*.avi
 .ipynb_checkpoints/
 *.npy
 *.mp4
 *.html
+
